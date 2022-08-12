@@ -18,4 +18,3 @@ While Running In The Background: 0.00ms CPU Usage
 
 2. Add 'ensure propspawner' in your Server.cfg (Don't do this, if you have put the propspawner resource in a folder that is already ensured in your cfg file.)
 
-# If you require any assistance or have any questions feel free to create a support ticket in our discord server!
